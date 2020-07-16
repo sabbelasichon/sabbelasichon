@@ -6,10 +6,6 @@
 
 I create and contribute to open source packages mainly for TYPO3 CMS. I love my weekends with the kids and i thank god it´s monday. A whole week plenty of passion.
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sabbelasichon.visitor-badge" alt="visitor badge" align="center" />
-</p>
-
 <!--
 **sabbelasichon/sabbelasichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
