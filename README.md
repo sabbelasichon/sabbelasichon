@@ -1,0 +1,26 @@
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  <a href="https://www.schreibersebastian.de/" target="_blank">Website</a>
+</p>
+
+I create and contribute to open source packages mainly for TYPO3 CMS. I love my weekends with the kids and i thank god it´s monday. A whole week plenty of passion.
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=simonschaufi.visitor-badge" alt="visitor badge" align="center" />
+</p>
+
+<!--
+**sabbelasichon/sabbelasichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
